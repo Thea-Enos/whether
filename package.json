@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "http://thea-enos.github.io/weather-or-not",
+  "homepage": "http://thea-enos.github.io/whether",
   "dependencies": {
     "@material-ui/core": "^4.8.3",
     "react": "16.12.0",
